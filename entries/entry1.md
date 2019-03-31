@@ -1,16 +1,15 @@
 # Entry 1: Productivity App Intro/Plan 
----
 
-## Figuring out what to do  
+### Figuring out what to do  
 Text
-## App Outline  
+### App Outline  
 Text
-## What is Swift?   
+### What is Swift?   
 Text
-## Setting up swift  
+### Setting up swift  
 Text
-## First App  
+### First App  
 Text
-## Takeaways  
+### Takeaways  
 1. Text
 2. Text
