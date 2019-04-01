@@ -1,6 +1,6 @@
 # Entry 1: Productivity App Intro/Plan 
 
-### Figuring out what to do  
+## Figuring out what to do  
 What am I going to do for 9 weeks completely on myself? What computer language should I learn? Frustration came to me as an immediate response. With complete autonomy, starting is always the hardest. Here are some of the programming languages that came to my head as I reflected, searched, and watched some youtube videos.  
 
 1. **Javascript** (web-based) and **Python** (mainly used for data analysis) showed up on almost all the youtube videos as the most popular languages to know for the job market.  
@@ -9,12 +9,12 @@ What am I going to do for 9 weeks completely on myself? What computer language s
 
 I still don’t know which language I should learn so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
 
-### Simple App Outline  
+## Simple App Outline  
 Text
 
 **Final Decision**: Because both Jennifer and I both wanted to create a productivity app, we decided to cooperate. Jennifer will be learning MySQL, and I will be learning Swift.
 
-### What is Swift?   
+## What is Swift?   
 Swift is a programming language for macOS, iOS, watchOS, and tvOS.  
 
 #### Setting up Swift  
@@ -25,7 +25,7 @@ Scroll down to the Installation section, I was able to followed step by step on 
 
 _**Xcode** is where I will be using swift._
 
-### Welcome to Xcode
+## Welcome to Xcode
 Opening up Xcode, three options appeared, I can get started with a playground, create a new Xcode project, or clone an existing Xcode project. Because I don’t have an existing project on Xcode, I decided to tinker around with the first two option.  
 
 #### Get Started with a Playground  
@@ -45,7 +45,7 @@ I watched another Youtube video on how to create a Xcode project, and the video 
 
 Here is a part of the tutorial that taught me how to use constraints.
 
-### Takeaways  
+## Takeaways  
 1. **Plan before you actually start.** It is always helpful to think about what you want to create first and then decide what tools you would need to create. 
 2.  **Look up for resources.** I had to watch multiple videos and even read a book in the end to get started with the very basics of understanding Xcode and Swift.  
 3. **Learn Actively.** Reading a 114 page book will be boring. Luckily, there are visualizations and clear directions, so I opened Xcode and try the steps while following along. Trying out things helps me learn the best. 
