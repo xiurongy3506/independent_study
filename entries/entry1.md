@@ -7,7 +7,7 @@ What am I going to do for 9 weeks completely on myself? What computer language s
 2. In terms of apps, **Java** is for Android apps and **Swift** is for IOS apps.  
 3. On my first day of my internship, one of the managers asked me if I was familiar with **PHP + MySQL**. **PHP** is used for web application developments and **MySQOL** is used for database management. It turns out that these two languages is what most start-up companies started up with. 
 
-I still don’t know which language I should learn so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
+I still don’t know which language I should learn, so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
 
 ## Simple App Outline  
 <p align = "center">
