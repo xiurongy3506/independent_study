@@ -45,7 +45,7 @@ _I will definitely get back to the video once I am comfortable working with Xcod
 - **Print** "Hello, playground!" (the "\n" on the right indicates a new line being displayed)
 
 #### :star: Create a new Xcode project  
-I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the **_Starter’s Guide Make Your First App with Xcode_** (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
+I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the **_Starter’s Guide: Make Your First App with Xcode_** (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
 
 <p align="center">
     <b>My First App</b><br>
@@ -55,4 +55,4 @@ I watched another Youtube video on how to create a Xcode project, and the video 
 ## Takeaways  
 1. **Plan before you actually start.** It is always helpful to think about what you want to create first and then decide what tools you would need to create. 
 2.  **Look up for resources.** I had to watch multiple Youtube videos and even read a book in the end to get started with the very basics of understanding Xcode and Swift.  
-3. **Learn Actively.** Reading a 114 page book will be boring. Luckily, there are visualizations and clear directions, so I opened Xcode and try the steps while following along. Trying out things helps me learn the best. 
+3. **Learn Actively.** Reading a 114 pages of a book without storyline can be boring (in my opinion). Luckily, the _Starter's Guide_ has clear visualizations and clear directions, so I opened Xcode and try the steps while following along. Trying out things helps me learn the best. 
