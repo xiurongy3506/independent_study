@@ -33,7 +33,8 @@ I opened up a **playground**, a place where I can tinker and experiment around w
 
 _I will definitely get back to the video once I am comfortable working with Xcode._
 
-<img src="https://raw.githubusercontent.com/xiurongy3506/independent_study/master/img/playground.png"/>
+![alt text](https://raw.githubusercontent.com/xiurongy3506/independent_study/master/img/playground.png)
+
 
 - Right side of the diagram: preview of what the code does  (reminds me of "return" on Ruby when you display it on REPL)  
 - Bottom of the diagram: where the code is executed reminds me of the “puts” on ruby.  
