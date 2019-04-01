@@ -10,7 +10,9 @@ What am I going to do for 9 weeks completely on myself? What computer language s
 I still don’t know which language I should learn so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
 
 ## Simple App Outline  
+<p align = "center">
 <img src="https://raw.githubusercontent.com/xiurongy3506/independent_study/master/img/outline.png" width= "70%"/>  
+</p>
 
 _Because this is huge project, Jennifer and I decided to cross out some of ideas for now, so we can get our Minimum Viable Product done._
 
