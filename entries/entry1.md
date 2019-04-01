@@ -10,7 +10,7 @@ What am I going to do for 9 weeks completely on myself? What computer language s
 I still don’t know which language I should learn so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
 
 ## Simple App Outline  
-Text
+<img src="" id="c9.io" alt="" />
 
 **Final Decision**: Because both Jennifer and I both wanted to create a productivity app, we decided to cooperate. Jennifer will be learning MySQL, and I will be learning Swift.
 
