@@ -21,7 +21,7 @@ _Because this is huge project, Jennifer and I decided to cross out some of ideas
 ## What is Swift?   
 Swift is a programming language for macOS, iOS, watchOS, and tvOS.  
 
-#### - Setting up Swift  
+#### :small_orange_diamond: Setting up Swift  
 By googling “Swift set up,” I came across the Download section on [swift.org](https://swift.org/download/).  
 
 Scrolling down to the Installation section, I was able to followed step by step on the instructions and downloaded all the necessary files (Xcode, Ubuntu…) for swift 5.0.
