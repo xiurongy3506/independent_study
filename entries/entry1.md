@@ -21,7 +21,7 @@ _Because this is huge project, Jennifer and I decided to cross out some of ideas
 ## What is Swift?   
 Swift is a programming language for macOS, iOS, watchOS, and tvOS.  
 
-#### :small_orange_diamond: Setting up Swift  
+#### :star: Setting up Swift  
 By googling “Swift set up,” I came across the Download section on [swift.org](https://swift.org/download/).  
 
 Scrolling down to the Installation section, I was able to followed step by step on the instructions and downloaded all the necessary files (Xcode, Ubuntu…) for swift 5.0.
@@ -32,7 +32,7 @@ _**Xcode** is where I will be using swift._
 ## Welcome to Xcode
 Opening up Xcode, three options appeared. I can get started with a playground, create a new Xcode project, or clone an existing Xcode project. Because I don’t have an existing project on Xcode, I decided to tinker around with the first two option.  
 
-#### - Get Started with a Playground  
+#### :star: Get Started with a Playground  
 I opened up a **playground**, a place where I can tinker and experiment around with Swift programming. Then I looked up at Youtube for Swift tutorial and watched 10 minutes of a 3 hour+ long video just to get a gist of the playground.  
 
 _I will definitely get back to the video once I am comfortable working with Xcode._
@@ -44,7 +44,7 @@ _I will definitely get back to the video once I am comfortable working with Xcod
 - Learned about var (for declaring a new variable). Just like all the programming language I learned, a variable holds some data
 - Printed "Hello, playground!"
 
-#### - Create a new Xcode projectM  
+#### :star: Create a new Xcode projectM  
 I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the _Starter’s Guide Make Your First App with Xcode_ (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
 
 <p align="center">
