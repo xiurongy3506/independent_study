@@ -12,7 +12,7 @@ I still don’t know which language I should learn so I took a different route. 
 ## Simple App Outline  
 <img src="https://raw.githubusercontent.com/xiurongy3506/independent_study/master/img/outline.png" width= "70%"/>  
 
-_Because this is huge project, Jennifer and I decided to cross out some of ideas for now, so we can get our Minimum Viable Product done_
+_Because this is huge project, Jennifer and I decided to cross out some of ideas for now, so we can get our Minimum Viable Product done._
 
 **Final Decision**: Because both Jennifer and I both wanted to create a productivity app, we decided to cooperate. Jennifer will be learning MySQL, and I will be learning Swift.
 
@@ -45,7 +45,7 @@ _I will definitely get back to the video once I am comfortable working with Xcod
 #### - Create a new Xcode project/ My First App  
 I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the _Starter’s Guide Make Your First App with Xcode_ (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
 
-Here is a part of the tutorial that taught me how to use constraints.
+
 
 ## Takeaways  
 1. **Plan before you actually start.** It is always helpful to think about what you want to create first and then decide what tools you would need to create. 
