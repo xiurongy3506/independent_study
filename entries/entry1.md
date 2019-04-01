@@ -45,7 +45,7 @@ _I will definitely get back to the video once I am comfortable working with Xcod
 #### - Create a new Xcode project/ My First App  
 I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the _Starter’s Guide Make Your First App with Xcode_ (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
 
-
+<img src="https://raw.githubusercontent.com/xiurongy3506/independent_study/master/img/firstapp.gif" width= "70%"/>
 
 ## Takeaways  
 1. **Plan before you actually start.** It is always helpful to think about what you want to create first and then decide what tools you would need to create. 
