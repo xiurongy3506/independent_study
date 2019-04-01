@@ -44,7 +44,7 @@ _I will definitely get back to the video once I am comfortable working with Xcod
 - Learned about **var** (for declaring a new variable). Just like all the programming language I learned, a variable holds some data
 - **Print** "Hello, playground!" (the "\n" on the right indicates a new line being displayed)
 
-#### :star: Create a new Xcode projectM  
+#### :star: Create a new Xcode project  
 I watched another Youtube video on how to create a Xcode project, and the video recommended me to check out the **_Starter’s Guide Make Your First App with Xcode_** (a free book). This is where I began reading a 114-page book on how to make my first app. Most of the reading is helping me understand how to use Xcode and explaining the different icons or functions I see.  
 
 <p align="center">
