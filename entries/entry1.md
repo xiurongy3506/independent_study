@@ -5,7 +5,7 @@ What am I going to do for 9 weeks completely on myself? What computer language s
 
 1. **Javascript** (web-based) and **Python** (mainly used for data analysis) showed up on almost all the youtube videos as the most popular languages to know for the job market.  
 2. In terms of apps, **Java** is for Android apps and **Swift** is for IOS apps.  
-3. On my first day of my internship, one of the managers asked me if I was familiar with **PHP + MySQL**. **PHP** is used for web application developments and **MySQOL** is used for database management. It turns out that these two languages is what most start-up companies started up with. 
+3. On my first day of my internship, one of the managers asked me if I was familiar with **PHP + MySQL**. **PHP** is used for web application developments and **MySQL** is used for database management. It turns out that these two languages is what most start-up companies started up with. 
 
 I still don’t know which language I should learn, so I took a different route. I know that I always wanted to create some sort of productivity app, so I opened up a google doc and started planning.
 
@@ -19,7 +19,7 @@ _Because this is huge project, Jennifer and I decided to cross out some of ideas
 **Final Decision**: Because both Jennifer and I both wanted to create a productivity app, we decided to cooperate. Jennifer will be learning MySQL, and I will be learning Swift.
 
 ## What is Swift?   
-Swift is a programming language for macOS, iOS, watchOS, and tvO, developed by Apple.
+Swift is a programming language for macOS, iOS, watchOS, and tvOS, developed by Apple.
 
 #### :star: Setting up Swift  
 By googling “Swift set up,” I came across the Download section on [swift.org](https://swift.org/download/).  
