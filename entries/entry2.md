@@ -2,8 +2,8 @@
 
 In this blog, I will cover mostly the notes I took from watching Swift Tutorial on youtube and the basic syntax. Feel free to scroll down to the bottom and check out CocoaPods, App Tinkering, and Takeaways. 
 
-## Variable
-As mentioned in my Blog Entry1, variable holds data. By giving variables a specific type, i.e `var str:String`, it is telling the computer that the variable, str, only stores string data. 
+## Variables
+As mentioned in my Blog Entry1, a variable holds data. By giving variables a specific type, i.e `var str:String`, it is telling the computer that the variable, str, only stores string data. 
 
 **Note**: An error will occur if `var str:String = 4` as well as `var str:int = “hello playground”`
 
