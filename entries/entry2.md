@@ -1,18 +1,18 @@
-# Entry 1: Dive into the Learning
+# Entry 2: Dive into the Learning
 
 In this blog, I will cover mostly the notes I took from watching Swift Tutorial on youtube and the basic syntax. Feel free to scroll down to the bottom and check out CocoaPods, App Tinkering, and Takeaways. 
 
 ## Variable
-As mentioned in my Blog Entry1, Varible holds data. By giving variables a specific type, i.e `var str:String`, it is telling the computer that the variable, str, only stores string data. 
+As mentioned in my Blog Entry1, variable holds data. By giving variables a specific type, i.e `var str:String`, it is telling the computer that the variable, str, only stores string data. 
 
-**Note**: An error will occur if var `str:String = 4` as well as `var str:int = “hello playground”`
+**Note**: An error will occur if `var str:String = 4` as well as `var str:int = “hello playground”`
 
 | Syntax      | Examples  |
 | ----------- | ----------- | 
 |`var variable name: type = expression` | `var c:Float = 2.3`<br> `var d:Double = 13.9` <br>`var e:Bool = true`|
 
 ## If, Else if, Else statement
-Like most of the computer languages I've learned, the If, Else if, and Else statement are conditionals going in order. If conditional1 is true, it will execute the code that is under conditional1. If condition1 is not true, it will go down the loop and ececute the code with the true condition.
+Like most of the computer languages I've learned, the If, Else if, and Else statements are conditionals going in order. If conditional1 is true, it will execute the code that is under conditional1. If condition1 is not true, it will go down the loop and execute the code with the true condition.
 
 ```swift
 if condition1 {
@@ -29,7 +29,7 @@ else {
 **Notes:**  _Equal Sign_ `==` _And_ `&&` _Or_ `||`  _Not_ `!=`
 
 ## Switch Statement
-Switch Statements are similar to If Else Statements, except, they are asier to read than writing a bunch of if else statement (reminds me case statement in Ruby).
+Switch Statements are similar to If Else Statements, except, they are easier to read than writing a bunch of if else statement (reminds me case statement in Ruby).
 
 **Syntax**
 ```swift
@@ -59,7 +59,7 @@ switch someCharacter {
 This will print “is an A”
 
 ## loops
-Loops are instructions that are repeated until certain condition is met. 
+Loops are instructions that are repeated until a certain condition is met. 
 
 ### For Loop
 **Syntax** 
@@ -123,7 +123,7 @@ Above will print <code>This will always run once</code>
 #### :star: Order Matters
 The order of the code can be seen through **the difference between Repeat While Loop and While Loop**. 
 
-Repeat prints once and then checks for the while condition. However, while loop will not repeat at all if the condition is not met.
+Repeat prints once and then check for the while condition. However, while loop will not repeat at all if the condition is not met.
 
 ## Functions
 A function is a block of code that you can call multiple times.  
@@ -168,7 +168,7 @@ print(sum)
 
 Above will print <code>5</code> because the function is adding the two parameters the user assign in <code>arg</code>.   
 
-This code can look a bit overwelming because you have to assigned four different names that you will use, two parameter(to use within the function) and two argument(to use outside of the function). Imagine if you were to add more parameters...
+This code can look a bit overwhelming because you have to assign four different names that you will use, two parameters (to use within the function) and two arguments (to use outside of the function). Imagine if you were to add more parameters...
 
 #### Ways you can make the above code simpler  
 :star: **Make arg and para name the same**
@@ -203,7 +203,7 @@ print(sum)
 
 ## CocoaPods
 #### Where did this new concept, CocoaPods, came from? 
-I told my co-worker, John, at my intern that I will be studying Swift for my independent_study. John, as an IOS Developer, asked me about what I am learning, and I told him about my experience of swift so far (learning the basics syntax and etc). I told John about my goal, to build a productivity app, and John kindly recommended me to look into CocoaPods as it contains many already developed code that can be useful to impliment in my app. 
+I told my co-worker, John, at my intern that I will be studying Swift for my independent_study. John, as an IOS Developer, asked me about what I am learning, and I told him about my experience of swift so far (learning the basics syntax and etc). I told John about my goal, to build a productivity app, and John kindly recommended me to look into CocoaPods as it contains many already developed code that can be useful to implement in my app. 
 
 #### So I did some googling...  
 CocoaPod is a dependency manager for Swift and Objective-C. 
@@ -221,10 +221,10 @@ Once installed, John used Alamofire, has to do with networking and API, as an ex
 1. Add Alamofire to podfile (detail can be seen in the installation guide [here](https://cocoapods.org/pods/Alamofire) )
 2. On the terminal, <code>pod install</code>   
 <img src="https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/cocoapod_install.png" width= "100%"/>
-3. Once installed, the folder Alamofire will be created
-Import Alamofire on view controller
+3. Once installed, the folder Alamofire will be created  
+4. Import Alamofire on view controller  
 
-Introduced to CocoaPods for the first time, I did some research and had a gist of what CocoaPods is. However, to impliment it in swift, I still need to dive in deeper and watch more tutorials on how to use CocoaPods. Hopefully, I will do that next week and update what I learn on my next entry!
+Introduced to CocoaPods for the first time, I did some research and had a gist of what CocoaPods is. However, to implement it in swift, I still need to dive in deeper and watch more tutorials on how to use CocoaPods. Hopefully, I will do that next week and update what I learn on my next entry!
 
 ## App Tinkering
 Thanks to John, he also gave me quick an overview on how apps work in swift and how to program them. 
