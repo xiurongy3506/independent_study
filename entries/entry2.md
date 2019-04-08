@@ -245,9 +245,10 @@ Thanks to John, he also gave me quick an overview on how apps work in swift and 
 _Above is a continuation of the previous app I created in Entry 1._
 
 ## Takeaways
-1. **Follow the path of serendipity.** I currently work at a start up digital marketing app company, and I shared about my experience in coding and what I am currently working on with my co-workers. This lead me to recieving helps and advices from my co-worker, John, and expanded my understanding on the app platform. Overall, this gave me a balance to play around with Xcode and to continue learning the syntaxs on Swift Tutorial.  
+1. **Follow the path of serendipity.** I currently work at a startup digital marketing app company, and I shared about my experience in coding and what I am currently working on with my co-workers. This leads me to help and advice from my co-worker, John, and expanded my understanding of the app platform. Overall, this gave me a balance to play around with Xcode and to continue learning the syntax on Swift Tutorial.
 
-2. **Know how to pace your learning.** I made sure that I watch at least one unit per day and practice using it either through code along with the youtube video or trying something on the playground (see previous entry if you do not know what a playground is). This way, I will make sure I know the basics, and will dive a little into the app each time.  
+2. **Know how to pace your learning.**  I made sure that I watch at least one unit per day and practice using it either through code along with the youtube video or trying something on the playground (see previous entry if you do not know what a playground is). This way, I will make sure I know the basics and will dive a little into the app each time.
+
 
 
 
