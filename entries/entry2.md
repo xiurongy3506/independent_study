@@ -119,7 +119,7 @@ repeat {
 
 Above will print <code>This will always run once</code>
 
-#### :star: Order of the code Matters
+#### :star: Order Matters
 The order of the code can be seen through **the difference between Repeat While Loop and While Loop**. 
 
 Repeat prints once and then checks for the while condition. However, while loop will not repeat at all if the condition is not met.
