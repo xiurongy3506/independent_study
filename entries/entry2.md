@@ -167,7 +167,7 @@ print(sum)
 
 Above will print <code>5</code> because the function is adding the two parameters the user assign in <code>arg</code>.   
 
-This code can look a bit overwelming because you have to assigned four different names that you will use, two parameter(use within the function) and two argument(use outside of the function). Imagine if you were to add more parameters...
+This code can look a bit overwelming because you have to assigned four different names that you will use, two parameter(to use within the function) and two argument(to use outside of the function). Imagine if you were to add more parameters...
 
 #### Ways you can make the above code simpler  
 :star: **Make arg and para name the same**
