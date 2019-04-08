@@ -227,18 +227,17 @@ Thanks to John, he also gave me quick an overview on how apps work in swift and 
 #### What I learned
 1. To code for a specific item in the storyboard, you would click and drag that item to where you want to place the code in ViewController.swift
 2. A little box will pop up (shown below), and you can fill in the corresponding action.  
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/xiurongy3506    /swift_independent_study/master/img/box.png" width=     "40%"/>
+    </p>
 3. Then, in the function, I can apply swift code. 
-<p align="center">
-    <img src="" width= "70%"/>
-</p>
-
 
 <p align="center">
     <b>A demo of what I did: Button Clicked</b><br>
-    <img src="https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/button_click.gif" width= "70%"/>
+    <img src="https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/button_click.gif" width= "60%"/>
 </p>
 
-_Above is a continuation of the previous app I created in Entry 1_
+_Above is a continuation of the previous app I created in Entry 1._
 
 ## Takeaways
 1. **Follow the path of serendipity.** I currently work at a start up digital marketing app company, and I shared about my experience in coding and what I am currently working on with my co-workers. This lead me to recieving helps and advices from my co-worker, John, and expanded my understanding on the app platform. Overall, this gave me a balance to play around with Xcode and to continue learning the syntaxs on Swift Tutorial.  
