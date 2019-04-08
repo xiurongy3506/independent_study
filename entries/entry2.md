@@ -14,7 +14,7 @@ As mentioned in my Blog Entry1, Varible holds data. By giving variables a specif
 ## If, Else if, Else statement
 Like most of the computer languages I've learned, the If, Else if, and Else statement are conditionals going in order. If conditional1 is true, it will execute the code that is under conditional1. If condition1 is not true, it will go down the loop and ececute the code with the true condition.
 
-<pre>
+```swift
 if condition1 {
 	Somecode
 }
@@ -24,7 +24,7 @@ else if condition 2 {
 else {
 	Code
 }
-</pre>
+```
 
 **Notes:**  _Equal Sign_ `==` _And_ `&&` _Or_ `||`  _Not_ `!=`
 
@@ -32,20 +32,21 @@ else {
 Switch Statements are similar to If Else Statements, except, they are asier to read than writing a bunch of if else statement (reminds me case statement in Ruby).
 
 **Syntax**
-<pre>
-<span style="color: Purple">switch</span> value to consider{  
-    <span style="color: Purple">case</span> value1: 
+```swift
+switch value to consider{
+	case value1: 
 		some code
-	<span style="color: Purple">case</span> value2:
+	case value2:
 		some code
-	<span style="color: Purple">default</span>: 
+	default: 
 		somecode
 }
-</pre>
+```
 
 **Example**
-<pre>
+```swift
 var someCharacter:Character = "a"
+
 switch someCharacter {
     case "a":
         print("is an A")
@@ -54,7 +55,7 @@ switch someCharacter {
     default:
         print("some fallback")
 }
-</pre>
+```
 This will print “is an A”
 
 ## loops
@@ -62,40 +63,40 @@ Loops are instructions that are repeated until certain condition is met.
 
 ### For Loop
 **Syntax** 
-<pre>
-for counter in loop Lower…upper{
+```swift
+for counter in Lower…upper{
 	some code
 }
-</pre>
+```
 
 **Example**
-<pre>
+```swift
 var sum = 0
-for index in 1...5 {<br>
-<i>//print hello 5 times
-//    print("hello")<br>
+for index in 1...5 {
+//print hello 5 times
+//    print("hello")
 //print from 1 to 5
-//    print(index)</i><br>
+//    print(index)
     sum += index
 }
 print(sum)
-</pre>
+```
 
 ### While Loop 
 **Syntax**
-<pre>
+```swift
 while condition {
     some code
 }
-</pre>
+```
 
 **Example**  
-<pre>
+```swift
 var num = 6
 while num < 4 {
     print("This runs when the above stement is true")
 }
-</pre>
+```
 
 In this case, the condition is not true, so the while loop will not run. If the statement is true, it will run and run and create an **infinite loop** since nothing is there to break the loop. 
 
@@ -103,19 +104,19 @@ You can add **break** below print to make the code only run once.
 
 ### Repeat While Loop 
 **Syntax**
-<pre>
+```swift
 repeat {
     some code
 }while condition
-</pre>
+```
 
 **Example**
-<pre>
+```swift
 var num = 6
 repeat {
     print("This will always run once")
 }while num < 5
-</pre>
+```
 
 Above will print <code>This will always run once</code>
 
@@ -128,42 +129,42 @@ Repeat prints once and then checks for the while condition. However, while loop 
 A function is a block of code that you can call multiple times.  
 
 **Syntax**  
-<pre>
+```swift
 func name() {
     some code
 }
-</pre>
+```
 
 :star: **Return Values**
-<pre>
+```swift
 func name() -> DataType {
     some code
     return someValue
 }
-</pre>
+```
 
 :star: **parameter**
-<pre>
+```swift
 func name (argumentLabel parameterName:DataType) {
     some code
 }
-</pre>
+```
 
 :star: **Multiple Parameters**
-<pre>
+```swift
 func name (arg1 param1:DataType, arg2 param2:DataType) {
     some code
 }
-</pre>
+```
 
 **Example**
-<pre>
+```swift
 func addTwoNumbers(arg1 para1:Int, arg2 para2:Int) -> Int{
     return para + para2
 }
 let sum = addTwoNumbers(arg: 2, arg2: 3)
 print(sum)
-</pre>
+```
 
 Above will print <code>5</code> because the function is adding the two parameters the user assign in <code>arg</code>.   
 
@@ -171,31 +172,34 @@ This code can look a bit overwelming because you have to assigned four different
 
 #### Ways you can make the above code simpler  
 :star: **Make arg and para name the same**
-<pre>
+```swift
 func addTwoNumbers(para1:Int, para2:Int) -> Int{
     return para + para2
-}<br>
+}
+
 let sum = addTwoNumbers(para1: 2, para2: 3)
 print(sum)
-</pre> 
+``` 
 
 :star: **Easier to read**  
-<pre>
+```swift
 func addTwoNumbers(using para:Int, and para2:Int) -> Int{
     return para + para2
-}<br>
+}
+
 let sum = addTwoNumbers(using: 2, and: 3)
 print(sum)
-</pre>
+```
 
 :star: **Don't want to use labels at all?**  
-<pre>
+```swift
 func addTwoNumbers(_ para:Int, _ para2:Int) -> Int{
     return para + para2
-}<br>
+}
+
 let sum = addTwoNumbers(2,3)
 print(sum)
-</pre>
+```
 
 ## CocoaPods
 #### Where did this new concept, CocoaPods, came from? 
