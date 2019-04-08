@@ -223,7 +223,7 @@ Once installed, John used Alamofire, has to do with networking and API, as an ex
 <img src="https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/cocoapod_install.png" width= "100%"/>
 3. Once installed, the folder Alamofire will be created  
 4. Import Alamofire on view controller  
-
+ 
 Introduced to CocoaPods for the first time, I did some research and had a gist of what CocoaPods is. However, to implement it in swift, I still need to dive in deeper and watch more tutorials on how to use CocoaPods. Hopefully, I will do that next week and update what I learn on my next entry!
 
 ## App Tinkering
