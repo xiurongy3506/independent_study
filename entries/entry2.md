@@ -198,10 +198,10 @@ print(sum)
 </pre>
 
 ## CocoaPods
-**Where did this new concept, CocoaPods, came from?**  
+#### Where did this new concept, CocoaPods, came from? 
 I told my co-worker, John, at my intern that I will be studying Swift for my independent_study. John, as an IOS Developer, asked me about what I am learning, and I told him about my experience of swift so far (learning the basics syntax and etc). I told John about my goal, to build a productivity app, and John kindly recommended me to look into CocoaPods as it contains many already developed code that can be useful to impliment in my app. 
 
-**So I did some googling...**  
+#### So I did some googling...  
 CocoaPod is a dependency manager for Swift and Objective-C. 
 
 In other words, CocoaPods allows you to import external libraries into your projects. A **pod** is referencing to a software library. Once it is installed on your computer, you can use it in your projects.
