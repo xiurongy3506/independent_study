@@ -213,7 +213,11 @@ Thanks to John, he also gave me quick an overview on how apps work in swift and 
 2. A little box will pop up (shown below), and you can fill in the corresponding action.
 3. Then, in the function, I can apply swift code. 
 
-#### A demo of what I did: Button Clicked
+<p align="center">
+    <b>A demo of what I did: Button Clicked</b><br>
+    <img src="" width= "70%"/>
+</p>
+
 
 
 
