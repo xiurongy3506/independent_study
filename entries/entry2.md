@@ -215,7 +215,8 @@ John showed me how to install, and here is the process
 
 Once installed, John used Alamofire, has to do with networking and API, as an example to help me set up.   
 1. Add Alamofire to podfile (detail can be seen in the installation guide [here](https://cocoapods.org/pods/Alamofire) )
-2. On the terminal, <code>pod install</code>  
+2. On the terminal, <code>pod install</code>   
+<img src="https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/cocoapod_install.png" width= "100%"/>
 3. Once installed, the folder Alamofire will be created
 Import Alamofire on view controller
 
