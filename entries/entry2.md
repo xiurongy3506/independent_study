@@ -1,13 +1,21 @@
 # Entry 1: Dive into the Learning
 
+In this blog, I will cover mostly the notes I took from watching Swift Tutorial on youtube and the basic syntax. Feel free to scroll down to the bottom and check out CocoaPods, App Tinkering, and Takeaways. 
+
 ## Variable
+As mentioned in my Blog Entry1, Varible holds data. By giving variables a specific type, i.e `var str:String`, it is telling the computer that the variable, str, only stores string data. 
+
+**Note**: An error will occur if var `str:String = 4` as well as `var str:int = “hello playground”`
+
 | Syntax      | Examples  |
 | ----------- | ----------- | 
 |`var variable name: type = expression` | `var c:Float = 2.3`<br> `var d:Double = 13.9` <br>`var e:Bool = true`|
 
-## If Else if Else statement
+## If, Else if, Else statement
+Like most of the computer languages I've learned, the If, Else if, and Else statement are conditionals going in order. If conditional1 is true, it will execute the code that is under conditional1. If condition1 is not true, it will go down the loop and ececute the code with the true condition.
+
 <pre>
-If condition1 {
+if condition1 {
 	Somecode
 }
 else if condition 2 {
@@ -21,6 +29,8 @@ else {
 **Notes:**  _Equal Sign_ `==` _And_ `&&` _Or_ `||`  _Not_ `!=`
 
 ## Switch Statement
+Switch Statements are similar to If Else Statements, except, they are asier to read than writing a bunch of if else statement (reminds me case statement in Ruby).
+
 **Syntax**
 <pre>
 <span style="color: Purple">switch</span> value to consider{  
@@ -48,6 +58,8 @@ switch someCharacter {
 This will print “is an A”
 
 ## loops
+Loops are instructions that are repeated until certain condition is met. 
+
 ### For Loop
 **Syntax** 
 <pre>
@@ -85,7 +97,9 @@ while num < 4 {
 }
 </pre>
 
-In this case, the condition is not true, so the while loop will not run. If the statement is true, it will run and run and create an infinite loop since nothing is there to break the loop. You can add **break** below print to make the code only run once.  
+In this case, the condition is not true, so the while loop will not run. If the statement is true, it will run and run and create an **infinite loop** since nothing is there to break the loop. 
+
+You can add **break** below print to make the code only run once.  
 
 ### Repeat While Loop 
 **Syntax**
@@ -111,6 +125,8 @@ The order of the code can be seen through **the difference between Repeat While 
 Repeat prints once and then checks for the while condition. However, while loop will not repeat at all if the condition is not met.
 
 ## Functions
+A function is a block of code that you can call multiple times.  
+
 **Syntax**  
 <pre>
 func name() {
@@ -151,7 +167,7 @@ print(sum)
 
 Above will print <code>5</code> because the function is adding the two parameters the user assign in <code>arg</code>.   
 
-This code can look a bit overwelming because you have assigned four different names that you will have to use, two parameter(use within the function) and two argument(use outside of the function). Imagine if you were to add more parameters...
+This code can look a bit overwelming because you have to assigned four different names that you will use, two parameter(use within the function) and two argument(use outside of the function). Imagine if you were to add more parameters...
 
 #### Ways you can make the above code simpler  
 :star: **Make arg and para name the same**
@@ -210,8 +226,12 @@ Thanks to John, he also gave me quick an overview on how apps work in swift and 
 
 #### What I learned
 1. To code for a specific item in the storyboard, you would click and drag that item to where you want to place the code in ViewController.swift
-2. A little box will pop up (shown below), and you can fill in the corresponding action.
+2. A little box will pop up (shown below), and you can fill in the corresponding action.  
 3. Then, in the function, I can apply swift code. 
+<p align="center">
+    <img src="" width= "70%"/>
+</p>
+
 
 <p align="center">
     <b>A demo of what I did: Button Clicked</b><br>
@@ -221,7 +241,8 @@ Thanks to John, he also gave me quick an overview on how apps work in swift and 
 _Above is a continuation of the previous app I created in Entry 1_
 
 ## Takeaways
-1. **Follow the path of serendipity.** I currently work at a start up digital marketing app company, and I shared about my experience in coding and what I am currently working on with my co-workers. This lead me to recieving helps and advices from my co-worker, John, and expanded my understanding on the app platform. Overall, this gave me a balance to play around with Xcode and to continue learning the syntaxs on Swift Tutorial.
+1. **Follow the path of serendipity.** I currently work at a start up digital marketing app company, and I shared about my experience in coding and what I am currently working on with my co-workers. This lead me to recieving helps and advices from my co-worker, John, and expanded my understanding on the app platform. Overall, this gave me a balance to play around with Xcode and to continue learning the syntaxs on Swift Tutorial.  
+
 2. **Know how to pace your learning.** I made sure that I watch at least one unit per day and practice using it either through code along with the youtube video or trying something on the playground (see previous entry if you do not know what a playground is). This way, I will make sure I know the basics, and will dive a little into the app each time.  
 
 
