@@ -7,6 +7,6 @@ I am Xiurong Yu, a current student at High School of Telecommunication Arts and 
 ## Table of Contents 
 1. [Entry 1: Productivity App Intro/Plan ](entries/entry1.md) 
 2. [Entry 2: Dive into the Learning](entries/entry2.md)
-3. [Entry 3: Tutotial :white_check_mark:](entries/entry3.md)  
+3. [Entry 3: Tutorial :white_check_mark:](entries/entry3.md)  
 4. [Entry 4: ](entries/entry4.md)  
 5. [Entry 5: ](entries/entry5.md)
