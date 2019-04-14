@@ -1,4 +1,4 @@
-# Entry 3: Tutotial :heavy_check_mark:
+# Entry 3: Tutotial :white_check_mark:
 
 This weeek, I was able to meet my previous goal of completing the Swift Beginner's Tutorial. 
 
