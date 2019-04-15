@@ -196,6 +196,7 @@ for (name, age) in person_age {
 - [ ] Learn how to built a basic timer 
 - [ ] Plan & Built a pomodoro timer  
 
+## Reflection
 Now that I have finished the tutorial, **next week** I will be mostly working with the app rather than the playground (where I test codes). In fact, after the tutorial, I actually felt like I understand the previoud app functions better.  
 
 For instance, below are the **terms I recognized** from what I learned this week.   
@@ -207,5 +208,5 @@ The code is showing that ViewController is a inheritance of the class UIViewCont
 ## Takeaways  
 1. **Break things down.** There's so much I have to do to learn how to create an app realizing that I couldn't do everything at once. Unfortunatly, this week, I wasn't able to utilize cocoapods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first.   
 
-2. **Keep track of the important things you find (links, ideas...)**. For me, there's still stuff that I don't understand (ex: convienience init) or things I can still explore more about (ex: UIKIT, collection types...). While I'm not sure if I need it now or have time to explore more knowing that I still have an app to built, I placed either write it down in this blog or had links to where to find the informations for future reference. 
+2. **Keep track of the important things you find (links, ideas...)**. For me, there's still stuff that I don't understand (ex: convienience init) or things I can still explore more about (ex: UIKIT, collection types...). While I'm not sure if I need it now or have time to explore more knowing that I still have an app to built, I either write it down in this blog or had links to where to find the informations for future reference. 
 
