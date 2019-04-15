@@ -196,10 +196,13 @@ for (name, age) in person_age {
 - [ ] Learn how to built a basic timer 
 - [ ] Plan & Built a pomodoro timer  
 
-Now that I have finished the tutorial, next week I will be mostly working with the app rather than the playground. In fact, after the tutorial, I actually felt like I understand the previoud app functions better. For instance, below are the terms I recognize in from what I learned this week.   
+Now that I have finished the tutorial, next week I will be mostly working with the app rather than the playground. In fact, after the tutorial, I actually felt like I understand the previoud app functions better.  
+
+For instance, below are the **terms I recognized** from what I learned this week.   
 <p align="center">
-    <img src = ""/>
-</p>
+    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/recognize.png"/>
+</p>  
+The code is showing that ViewController is a inheritance of the class UIViewController, and it is redefining the parent function using override. Within the override function, there is a reference to the parent class that loads the view. 
 
 ## Takeaways  
 1. **Break things down.** There's so much I have to do to learn how to create an app realizing that I couldn't do everything at once. Unfortunatly, this week, I wasn't able to utilize cocoapods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first.   
