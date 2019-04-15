@@ -1,6 +1,6 @@
 # Entry 3: Tutorial :white_check_mark:
 
-This weeek, I was able to meet my previous goal of completing the Swift Beginner's Tutorial. 
+This weeek, I was able to meet my goal of completing the Swift Beginner's Tutorial. However, I was not able to play around with my previous app with the time and personal workload I have. Additionally, most of my time were dedicated to trying things on the playground, and understanding the different concepts.
 
 ## Class  
 Class reminds me of the object orientation I learned in Ruby and P5js. Similar to Rbby and p5js, a class is like a factory that teaches the code how to create instances. The instance that is created in the class are also known as objects.   
@@ -173,7 +173,7 @@ person_age["Ann"] = "18"
 //set the key to nil
 person_age["Ann"] = nil
 ```  
-- iterate
+- Iterate
 ```swift
 for (name, age) in person_age {
     print("\(name) is \(age) years old")
@@ -184,7 +184,25 @@ for (name, age) in person_age {
 //Ann is 18 years old
 ```     
 
+## Progress 
+- [x] Have an idea of what to create + Have an outline
+- [x] Get to know Xcode (how to navigate, bulit app, and use playgrounds)
+- [x] Set up apple stimulator with Xcode and apply functions to the app (i.e button click)
+- [x] Finish Swift Tutorial
+- [ ] connect Swift with MySQL 
+- [ ] Research useful cocoapods for my productivity app
+- [ ] Apply things I learn from the tutorial to my app
+- [ ] Built a to-do list (tutorial already exist)
+- [ ] Learn how to built a basic timer 
+- [ ] Plan & Built a pomodoro timer  
+
+Now that I have finished the tutorial, next week I will be mostly working with the app rather than the playground. In fact, after the tutorial, I actually felt like I understand the previoud app functions better. For instance, below are the terms I recognize in from what I learned this week.   
+<p align="center">
+    <img src = ""/>
+</p>
+
 ## Takeaways  
-1. **You do not have to do everything at once. Break it down.** Unfortunatly, this week, I wasn't able to utilize cocoapods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first. Next week, I want to start applying the codes I learned from the tutorial to my test app and apply cocoapods. 
+1. **Break things down.** There's so much I have to do to learn how to create an app realizing that I couldn't do everything at once. Unfortunatly, this week, I wasn't able to utilize cocoapods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first.   
+
 2. **Keep track of the important things you find (links, ideas...)**. For me, there's still stuff that I don't understand (ex: convienience init) or things I can still explore more about (ex: UIKIT, collection types...). While I'm not sure if I need it now or have time to explore more knowing that I still have an app to built, I placed either write it down in this blog or had links to where to find the informations for future reference. 
 
