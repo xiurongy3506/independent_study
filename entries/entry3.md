@@ -184,7 +184,7 @@ for (name, age) in person_age {
 //Ann is 18 years old
 ```     
 
-## Progress 
+## Progress since Entry 1
 - [x] Have an idea of what to create + Have an outline
 - [x] Get to know Xcode (how to navigate, bulit app, and use playgrounds)
 - [x] Set up apple stimulator with Xcode and apply functions to the app (i.e button click)
@@ -196,7 +196,7 @@ for (name, age) in person_age {
 - [ ] Learn how to built a basic timer 
 - [ ] Plan & Built a pomodoro timer  
 
-Now that I have finished the tutorial, next week I will be mostly working with the app rather than the playground. In fact, after the tutorial, I actually felt like I understand the previoud app functions better.  
+Now that I have finished the tutorial, **next week** I will be mostly working with the app rather than the playground (where I test codes). In fact, after the tutorial, I actually felt like I understand the previoud app functions better.  
 
 For instance, below are the **terms I recognized** from what I learned this week.   
 <p align="center">
