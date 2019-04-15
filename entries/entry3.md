@@ -1,11 +1,11 @@
 # Entry 3: Tutorial :white_check_mark:
 
-This weeek, I was able to meet my goal of completing the Swift Beginner's Tutorial. However, I was not able to play around with my previous app with the time and personal workload I have. Additionally, most of my time were dedicated to trying things on the playground, and understanding the different concepts.
+This week, I was able to meet my goal of completing the Swift Beginner's Tutorial. However, I was not able to play around with my previous app with the time and personal workload I have :disappointed_relieved:. Therefore, this week in SEP, most of my time was dedicated to trying things on the playground and understanding the different concepts.
 
 ## Class  
-Class reminds me of the object orientation I learned in Ruby and P5js. Similar to Rbby and p5js, a class is like a factory that teaches the code how to create instances. The instance that is created in the class are also known as objects.   
+Class reminds me of the object orientation I learned in Ruby and P5js. Similar to Ruby and p5js, a class is like a factory that teaches the code on how to create instances. The instance that is created in the class is also known as objects.   
 
-When creating a class, always capitalize the name. 
+When creating a class, always capitalize  the name. 
 ```swift  
 class Name {
     //code
@@ -73,23 +73,23 @@ Driving at 200
 and rocket boosting at 50
 Flying
 ```
-Since Futurecar inherit from car, it is going to inherit the property of Car as well
+Since Futurecar inherit from Car, it is going to inherit the property of Car as well
 
 In the tutorial, there is a brief reference to **UIKIT** in which contains prebuilt classes that handle common things like app buttons, user interaction, and etc.  
 
 I will have to dig deeper and do some research on UIKIT.   
 
 ### Property  
-Base on the tutorial, properties refer to values that are stored within the class. This can be noticed by ```var```, when a new variable is created and stores some sort of data.   
+Base on the tutorial, properties refers to values that are stored within the class. This can be noticed by ```var```, when a new variable is created and stores some sort of data.   
 
-After searching up [property in swift](https://docs.swift.org/swift-book/LanguageGuide/Properties.html), I notied that there are different types of properties other than the type of property I was learning, stored property.
+After searching up [property in swift](https://docs.swift.org/swift-book/LanguageGuide/Properties.html), I noticed that there are different types of properties other than the type of property I was learning, stored property.
 
-I won't dive too deep into property now, but I left a link for reference incase I need it in the future.   
+I won't dive too deep into property now, but I left a link for reference in case I need it in the future.   
 
 _there's stored properties, computed properties, type property..._  
 
-## Optionals  
-Optionals may contain an object or not.  
+## Optional
+Optional may contain an object or not.  
 For instance, in ```var title:String?```,   
 ```?``` tells the computer that it can be a string or nil  
 
@@ -143,7 +143,7 @@ if let actualTItle = post.title {
 Use Force Unwrapping, ```!```, only if you know there is a value because it does not understand nil. If nil appears, the code will crash. 
 
 ## Dictionary  
-Dictionary are type of collection data stored in key-value pairs. This is similar to a hash in Ruby.   
+Dictionary is a type of collection data stored in key-value pairs. This is similar to a hash in Ruby.   
 
 There are three types of [collection data](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html) (Array, Sets, and Dictionary), but the video teaches Dictionary specifically. 
 
@@ -154,12 +154,12 @@ var person_age = [String:String]()
 ```
 _Note: To create a dictionary, get rid of "()" in the above vode and replace "String" with a string_  
 
-- Adding key value pairs
+- Add key value pairs
 ```swift
 person_age["Ann"] = "15"
 person_age["Ben"] = "16"
 ```  
-- Retrieving data
+- Retrieve data
 ```swift
 //prints 15
 person_age["Ann"]
@@ -186,27 +186,29 @@ for (name, age) in person_age {
 
 ## Progress since Entry 1
 - [x] Have an idea of what to create + Have an outline
-- [x] Get to know Xcode (how to navigate, bulit app, and use playgrounds)
+- [x] Get to know Xcode (how to navigate, built app, and use playgrounds)
 - [x] Set up apple stimulator with Xcode and apply functions to the app (i.e button click)
 - [x] Finish Swift Tutorial
 - [ ] connect Swift with MySQL 
-- [ ] Research useful cocoapods for my productivity app
+- [ ] Research useful cocoa pods for my productivity app
 - [ ] Apply things I learn from the tutorial to my app
 - [ ] Built a to-do list (tutorial already exist)
-- [ ] Learn how to built a basic timer 
-- [ ] Plan & Built a pomodoro timer  
+- [ ] Learn how to build a basic timer 
+- [ ] Plan & Built a Pomodoro Timer  
 
 ## Reflection
-Now that I have finished the tutorial, **next week** I will be mostly working with the app rather than the playground (where I test codes). In fact, after the tutorial, I actually felt like I understand the previoud app functions better.  
+Now that I have finished the tutorial, **next week** I will be mostly working with the app rather than the playground (where I test codes). In fact, after the tutorial, I actually felt like I understand the previous app functions better.  
 
-For instance, below are the **terms I recognized** from what I learned this week.   
+For instance, below are the **terms I recognized** from what I learned this week.  
+
 <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/recognize.png"/>
 </p>  
-The code is showing that ViewController is a inheritance of the class UIViewController, and it is redefining the parent function using override. Within the override function, there is a reference to the parent class that loads the view. 
+The code is showing that ViewController is an inheritance of the class UIViewController, and it is redefining the parent function using override. Within the override function, there is a reference to the parent class that loads the view. 
 
 ## Takeaways  
-1. **Break things down.** There's so much I have to do to learn how to create an app realizing that I couldn't do everything at once. Unfortunatly, this week, I wasn't able to utilize cocoapods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first.   
+1. **Break things down.** There's so much I have to do to learn how to create an app realizing that I couldn't do everything at once. Unfortunately, this week, I wasn't able to utilize cocoa pods and play around with it due to limited time. As a result, I prioritized finishing up the tutorial for swift first.   
 
-2. **Keep track of the important things you find (links, ideas...)**. For me, there's still stuff that I don't understand (ex: convienience init) or things I can still explore more about (ex: UIKIT, collection types...). While I'm not sure if I need it now or have time to explore more knowing that I still have an app to built, I either write it down in this blog or had links to where to find the informations for future reference. 
+2. **Keep track of the important things you find (links, ideas...)**. For me, there's still stuff that I don't understand (ex: convenience init) or things I can still explore more about (ex: UIKIT, collection types...). While I'm not sure if I need it now or have time to explore more knowing that I still have an app to built, I either write it down in this blog or had links to where to find the information for future reference. 
+
 
