@@ -40,6 +40,8 @@ Two types of connection:
 ## A basic timer  
 I coded along with a youtube video called, "Countdown Timer Tutorial in Swift/Xcode", but added my own properties and commented my code to make sure I understand. 
 
+_Please know that the countdown speed is accurate. Because the following gif is displayed quicker than the actual screen recording, the countdown is being speeded up as well_
+
 <p align="center">
     <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/timer.gif?raw=true"/>
 </p>  
@@ -56,7 +58,7 @@ I coded along with a youtube video called, "Countdown Timer Tutorial in Swift/Xc
 - [x] Learn how to build a basic timer 
 - [ ] Plan & Built a Pomodoro Timer  
 
-## Takeaway
+## Takeaways
 1. **Have a good foundation before creating something big**. I jumped right into creating a to-do list while coding along with a youtube video until I realize that I do not understand many terms that were mentioned, and why I was doing it，so I ended up cloning the project and trying to break down the codes (and the learning continues). 
 
 2. **Explore what already exist**. I really wanted to create a Pomodoro timer, but I can not start making one immediately. Since there are no existing projects of a Pomodoro Timer (from what I have found), I know that I will run into errors that I will most likely not have a solution for. Knowing that I am a Swift beginner, I started making a basic timer first, which there are so many resources and examples that exist, and hopefully built up to a Pomodoro timer. 
