@@ -16,6 +16,7 @@ To sum up, I did get a basic gist of how to-do-list works, and after I understan
 
 ## Pomodoro Timer
 I wanted to create a Pomodoro timer, but my ability won't let me right now. I figure I would need to know how to know to create a basic timer first before jumping into the advanced timers.  
+
 Here's my Plan:
 1. Code along on how to make a basic timer. 
 2. Make sure I have a full understanding of how the storyboard interacts with the viewController (Especially, knowing how user's input can be recognized by the  viewController)  
