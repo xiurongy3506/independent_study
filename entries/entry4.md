@@ -21,15 +21,22 @@ Here's my Plan:
 I finished the tutorial, but I realized that Swift is not just about coding. For Ruby, most of what is displayed is being coded. For instance if you want to bult a text box, you would have to code it. Unlike Ruby, Swift is more hands. I have to know how to use toolbox (text is one of them), what tools exist, and how to connect the available tools to the viewcontroller. 
 
 Two types of connection: 
-1. **Outlet** is basically the appearance or properties of the object in the storyboard.  
+1. **Outlet** is basically the appearance or properties of the object in the storyboard. 
+
+<p align="center">
+    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/outlet.png"/>
+</p>  
+
 2. **Action** is when you want the object you selected to perform certain action and this involves using code. 
 
-Image here
+<p align="center">
+    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/outlet_n_action.png"/>
+</p>  
 
 ## A basic timer  
 I coded along with a youtube video called, "ountdown Timer Tutorial in Swift/Xcode", but added my own properties and commented my code to make sure I understand. 
 
-gif here
+
 
 ## Progress since Entry 1
 - [x] Have an idea of what to create + Have an outline
