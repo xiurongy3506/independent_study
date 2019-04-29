@@ -36,7 +36,9 @@ Two types of connection:
 ## A basic timer  
 I coded along with a youtube video called, "ountdown Timer Tutorial in Swift/Xcode", but added my own properties and commented my code to make sure I understand. 
 
-
+<p align="center">
+    <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/timer.gif?raw=true"/>
+</p>  
 
 ## Progress since Entry 1
 - [x] Have an idea of what to create + Have an outline
