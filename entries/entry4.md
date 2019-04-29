@@ -7,6 +7,10 @@ This week, I was trying to find a useful pod from cocoa pods to use, but I couln
 I skimmed through multiple tutorials on creating a to-do list, but it is maintly for the older versions of Swift, but I decided to give it a try, and upon so many errors and confusion for terms that is being described in the tutorial, I had to clone the project and see how it works. While I do understand why the youtuber, Riley Norris, uses the codes he use, but I don't know how he knows what to use. I did add some comments on the code I cloned to make sure I understand some parts of it, and I also circled some terms I do not know.
 Here is a screen shot of what I'm talking about:
 
+<p align="center">
+    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/todoapp.png"/>
+</p>  
+
 To sum up, I did get a basic gist of how to-do list works, and after I understand how the codes work, I will make my own to-do list in the future. 
 
 ## Pomodoro Timer
