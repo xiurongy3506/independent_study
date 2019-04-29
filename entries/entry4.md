@@ -39,7 +39,7 @@ Two types of connection:
 </p>  
 
 ## A basic timer  
-I coded along with a youtube video called, "Countdown Timer Tutorial in Swift/Xcode", but added my own properties and commented my code to make sure I understand. 
+I coded along with a youtube video called, "Countdown Timer Tutorial in Swift/Xcode," but added my own properties and commented my code to make sure I understand. 
 
 _Please know that the countdown speed is accurate. Because the following gif is displayed quicker than the actual screen recording, the countdown is being speeded up as well_
 
