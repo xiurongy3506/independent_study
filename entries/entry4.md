@@ -15,7 +15,7 @@ Here is a screenshot of what I'm talking about:
 To sum up, I did get a basic gist of how to-do-list works, and after I understand how the codes work, I will make my own to-do list in the future. 
 
 ## Pomodoro Timer
-I wanted to create a Pomodoro timer, but my ability won't let me right now. I figure I would need to know how to know to create a basic timer first before jumping into the advanced timers.  
+I wanted to create a Pomodoro timer, but my ability won't let me right now. I figure I would need to know how to create a basic timer first before jumping into the advanced timers.  
 
 Here's my Plan:
 1. Code along on how to make a basic timer. 
