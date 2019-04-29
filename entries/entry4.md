@@ -23,7 +23,7 @@ Here's my Plan:
 3. Draft pseudocodes and break down the different components of a Pomodoro Timer
 4. Start Coding  
 
-I finished the tutorial, but I realized that Swift is not just about coding. For Ruby, most of what is displayed is being coded. For instance, if you want to build a text box, you would have to code it. Unlike Ruby, Swift is more hands. I have to know how to use toolbox (text is one of them), what tools exist, and how to connect the available tools to the view controller. 
+Although I finished the Swift's beginner tutorial, I realized that Swift is not just about coding. For Ruby, most of what is displayed is being coded. For instance, if you want to build a text box, you would have to code it. Unlike Ruby, Swift is more hands. I have to know how to use toolbox (text is one of them), what tools exist, and how to connect the available tools to the view controller. 
 
 Two types of connection: 
 1. **Outlet** is basically the appearance or properties of the object in the storyboard. 
