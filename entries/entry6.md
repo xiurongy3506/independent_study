@@ -7,7 +7,7 @@ Last week, I have faced a huge challenge in passing on data. What was really cha
 #### :star: Help from John
 John was previously introduced in Entry 2, my co-worker who introduced me to Cocoapods. While I was not able to see him last week, I communicated with him through Slack and he was able to modify parts of my code to make it work. I took a look at the code he wrote and compared to the one I wrote last week. In order to fully understand where my mistakes were, I created another same project to test my understanding. 
 
-The error below indicates that the app crashes due to the failure to access something. What's really tricky about this error is that you don't do where the failure is at specifically, so you have to look over your code to find it. 
+The error below indicates that the **app crashes due to the failure to access something**. What's really tricky about this error is that you do not know where the failure is at specifically, so you would have to look over your code to find it. 
  <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/signal.png"/>
     </p> 
@@ -22,8 +22,8 @@ The error below indicates that the app crashes due to the failure to access some
     </p> 
     
 2. There were multiple connections to the submit button  
-    **->** Go to the connection inspector and close up a connection  
-    **Here's how it should look **
+    **->** Go to the connection inspector and make sure there is only one view controller option. Close up connections by clicking "x" if there are more than one connection. 
+    **Here's how it should look:**
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/connection.png"/>
@@ -36,7 +36,7 @@ The error below indicates that the app crashes due to the failure to access some
      </p> 
 
 #### Data passed Successfully :satisfied:  
-A demo of passing data  
+A demo of passing user input to another view:   
 
 <p align="center">
     <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
