@@ -14,20 +14,21 @@ The error below indicates that the app crushes due to the failure to access some
 
 #### The bugs in my program:   
 
-1. I used a Swift class instead of Cocoa Touch class. 
+1. I used a Swift class instead of Cocoa Touch class.  
     -> Cocoa Touch Class generates interface builder files for me while for Swift Class, I have to type in the starting codes. While there isn't a big difference between the classes, I might get errors typing the code myself using Swift Class.  
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/class.png"/>
     </p> 
-2. There were multiple connections to the submit button 
-    -> Go to the connection inspector and close up a connection
-    Here's how it should look
+    
+2. There were multiple connections to the submit button  
+    -> Go to the connection inspector and close up a connection  
+    ** Here's how it should look **
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/connection.png"/>
     </p> 
-3. A segway was not able to be made from one view to the other because I did not give the segway an identifier in the identity inspector. 
+3. A segway was not able to be made from one view to the other because I did not give the segway an identifier in the identity inspector.  
     -> Make sure what I have written in code is consistent with the identity inspector.
 
      <p align="center">
