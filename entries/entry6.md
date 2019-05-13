@@ -15,14 +15,14 @@ The error below indicates that the **app crashes due to the failure to access so
 ### The bugs in my program:   
 
 1. I used a Swift class instead of Cocoa Touch class.  
-    **->** Cocoa Touch Class generates interface builder files for me while for Swift Class, I have to type in the starting codes. While there isn't a big difference between the classes, I might get errors typing the code myself using Swift Class.  
+    **-> Cocoa Touch Class** generates interface builder files for me while for Swift Class, I have to type in the starting codes. While there isn't a big difference between the classes, I might get errors typing the code myself using Swift Class.  
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/class.png"/>
     </p> 
     
 2. There were multiple connections to the submit button  
-    **->** Go to the connection inspector and make sure there is only one view controller option. Close up connections by clicking "x" if there are more than one connection. 
+    **->** Go to the connection inspector and make sure there is only one view controller option. Close up connections by clicking "x" if there are more than one connection.  
     **Here's how it should look:**
 
     <p align="center">
@@ -36,7 +36,7 @@ The error below indicates that the **app crashes due to the failure to access so
      </p> 
 
 #### Data passed Successfully :satisfied:  
-A demo of passing user input to another view:   
+A demo of passing user input from one view to another:   
 
 <p align="center">
     <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
@@ -44,14 +44,16 @@ A demo of passing user input to another view:
 
 _I also added a "< Back" button. The concept of passing from one view to the other is the same. In this case, clicking the back button will move from the second view to the first view._
 
-## Modified steps of setting up multiple views (from last week)   
-1. Have the first view (View Controller Setup)  
-    - Connect all components of the first view to view controller (dragging)
+## Steps of setting up multiple views  
+Last week, I jot down my steps of setting up multiple view in which resulted in an error. Below is the steps I took that has helped me avoid the errors i ended up with.  
+
+1. Have the first view (View Controller) Setup  
+    - Connect all components of the first view to view controller (by dragging)
 2. Create a second view 
     - Create a new file > select Cocoa Touch Class > Give the class a name > subclass of UIViewController > next  
 3. Go to the library and place a View Controller on the storyboard
 4. Click on this new view and go the identity inspector
-5. Set the class name of this second view to the name that you assigned to the file you've created 
+5. Set the class name of this second view to the name that you have assigned to the new file
 5. Drag the button(or any other attribute you made) from the first view to the second view and click “show”
 6. The connection is now being set up from the first view to the second view!
 
