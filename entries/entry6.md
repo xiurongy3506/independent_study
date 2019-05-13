@@ -37,7 +37,7 @@ The error below indicates that the app crushes due to the failure to access some
 
 #### Data passed Successfully :satisfied:
     <p align="center">
-     <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
+        <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
     </p>    
 
 
