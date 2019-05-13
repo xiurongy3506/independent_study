@@ -29,7 +29,7 @@ Solution: I looked around the code, no error is displayed. When I looked around 
 ## Pass on the Data  
 Learning how to create multiple views and pass on the data can be very useful when you want to create an interesting app that does not just have one single screen you see. I started with creating just two views, the main one and the other one called viewTwo. 
 
-Steps of creating multiple views:  
+My steps of creating multiple views:  
 1. Create a ViewController using toolkit
 2. Connect the button to the second ViewController and click “show”  
 
@@ -37,7 +37,7 @@ Steps of creating multiple views:
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/show.png"/>
 </p>  
 
-3. Create a new file (File -> New File -> Swift -> viewTwo)  
+3. Create a new file (File -> New File -> ~~Swift~~ Cocoa Touch Class -> viewTwo)  
 
 <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/viewTwo.png"/>
