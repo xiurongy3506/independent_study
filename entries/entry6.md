@@ -4,7 +4,7 @@ Previously, I have been working on parts of the app (i.e button click, timer, se
 ## Debugging
 Last week, I have faced a huge challenge in passing on data. What was really challenging for me to learn swift on myself was that most of the video tutorials I watched was mostly for Swift 8, Swift 3 and other versions, so sometimes when I code along, I would get unexpected errors that I do not know how to fix. After fixing all the bugs, I truly realize how glad I was to know someone who actually know Swift. 
 
-#### Help from John
+#### :star: Help from John
 John was previously introduced in Entry 2, my co-worker who introduced me to Cocoapods. While I was not able to see him last week, I communicated with him through Slack and he was able to modify parts of my code to make it work. I took a look at the code he wrote and compared to the one I wrote last week. Inorder to fully understand where my mistakes were, I created another same projet to test my understanding. 
 
 The error below indicates that the app crushes due to the failure to access something. What's really tricky about this error is that you don't done where the failure is at specifically, so you have to look over your code to find it. 
@@ -12,24 +12,24 @@ The error below indicates that the app crushes due to the failure to access some
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/signal.png"/>
     </p> 
 
-#### The bugs in my program:   
+### The bugs in my program:   
 
 1. I used a Swift class instead of Cocoa Touch class.  
-    -> Cocoa Touch Class generates interface builder files for me while for Swift Class, I have to type in the starting codes. While there isn't a big difference between the classes, I might get errors typing the code myself using Swift Class.  
+    **->** Cocoa Touch Class generates interface builder files for me while for Swift Class, I have to type in the starting codes. While there isn't a big difference between the classes, I might get errors typing the code myself using Swift Class.  
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/class.png"/>
     </p> 
     
 2. There were multiple connections to the submit button  
-    -> Go to the connection inspector and close up a connection  
+    **->** Go to the connection inspector and close up a connection  
     ** Here's how it should look **
 
     <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/connection.png"/>
     </p> 
 3. A segway was not able to be made from one view to the other because I did not give the segway an identifier in the identity inspector.  
-    -> Make sure what I have written in code is consistent with the identity inspector.
+    **->** Make sure what I have written in code is consistent with the identity inspector.
 
      <p align="center">
         <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/identify.png"/>
@@ -42,6 +42,7 @@ A demo of passing data
     <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
 </p>  
 
+_I also added a "< Back" button. The concept of passing from one view to the other is the same. In this case, clicking the back button will move from the second view to the first view._
 
 ## Modified steps of setting up multiple views (from last week)   
 1. Have the first view (View Controller Setup)  
