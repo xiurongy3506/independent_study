@@ -35,10 +35,12 @@ The error below indicates that the app crushes due to the failure to access some
         <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/identify.png"/>
      </p> 
 
-#### Data passed Successfully :satisfied:
-    <p align="center">
-        <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
-    </p>    
+#### Data passed Successfully :satisfied:  
+A demo of passing data  
+
+<p align="center">
+    <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/passdata.gif?raw=true"/>
+</p>  
 
 
 ## Modified steps of setting up multiple views (from last week)   
