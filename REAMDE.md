@@ -10,7 +10,7 @@ I am Xiurong Yu, a current student at High School of Telecommunication Arts and 
 3. [Entry 3: Tutorial :white_check_mark:](entries/entry3.md)  
 4. [Entry 4: The Teeny-tiny bit of Pomodoro Timer](entries/entry4.md)  
 5. [Entry 5: Taking User Input and Pass on Data](entries/entry5.md)  
-6. [Entry 6: Combining parts](entries/entry6.md)    
+6. [Entry 6: Debugging + Combining Parts](entries/entry6.md)    
 7. [Entry 7: ](entries/entry7.md)    
 8. [Entry 8: ](entries/entry8.md)  
 9. [Entry 9: ](entries/entry9.md)  

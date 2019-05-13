@@ -1,4 +1,4 @@
-# Entry 6: Combining parts
+# Entry 6: Debugging + Combining Parts
 Previously, I have been working on parts of the app (i.e button click, timer, setting up views... ), and last week, I was struggling with passing on data from one view to another. Time has gone by so fast, and I'm already writing Entry 6. With that said, I have to speed up a little and have my Minimum Viable Product done by Friday. Therefore, for this week, I started combining some mini parts of the project that I have worked on into one. 
 
 ## Debugging
