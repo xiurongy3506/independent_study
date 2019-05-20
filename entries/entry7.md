@@ -47,6 +47,20 @@ TimerView
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/timerView.png"/>
 </p>   
 
+## Progress since Entry 1
+- [x] Have an idea of what to create + Have an outline
+- [x] Get to know Xcode (how to navigate, built app, and use playgrounds)
+- [x] Set up apple stimulator with Xcode and apply functions to the app (i.e button click)
+- [x] Tinker with Alamofire Networking _It would be useful to making a message app, but probably won't have enough time to do it_
+- [x] Finish Swift Tutorial
+- ~~[ ] connect Swift with MySQL~~ _PLAN CHANGED_
+- [x] Coonect Swift with Firebase  
+- [ ] Authorize Firebase on swift 
+- [x] Research useful cocoa pods for my productivity app _used multiple Firebase pods_ 
+- [x] Apply things I learn from the tutorial to my app 
+- [ ] Built a to-do list (tutorial already exist) _still in the process of debugging one error_
+- [x] Learn how to build a basic timer 
+- [ ] Plan & Built a basic Pomodoro **Timer** _Still in the process of debugging_
 
 ## Takeaways  
 1. **Plan out your time well.** Despite I knew my goal in the beginning, I underestimated the amount of time it will take me to do this project, and still, I am not done. Moreover, it is also important to consider the amount of time you are able to spend on this project adding on with all the other responsibilities and works you have. By adding on the works I have, I realize that I will not be able to do everything. 
