@@ -9,7 +9,7 @@ Last week, I was having trouble passing on data from a string to an integer. Aft
 ## MVP
 The day beforethe SEP EXPO, I was rushing to get my MVP done. Since Jennifer was introduced to Firebase last week, I figure that having a message app done will be unrealistic. As a result, I decided to focus solely on the timer and the to-do list part of the app as of now.   
 
-:point_right: Here is what I have for MVP  
+:point_right: **Here is what I have for MVP**  
 _The beeping sound effect cannot be heard because the following is a gif_
  <p align="center">
         <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/mvp.gif?raw=true"/>
@@ -30,20 +30,20 @@ As you can see in my MVP, the username and password were entered assuming that t
 
 #### Why use pre-built UI from Firebase?  
 The pre-built UI
-- directs you to create an account if Firebase recognizes that you are a new user.  
+:star: directs you to create an account if Firebase recognizes that you are a new user.  
 
 <p align="center">
     <img width = 50% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/create.png"/>
 </p>
-- allows you to log in if your account has already been created   
+:star: allows you to log in if your account has already been created   
 
 <p align="center">
-    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/existing_user.png"/>
+    <img width = 60% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/existing_user.png"/>
 </p>
-- stores all the user information in Firebase  
+:star: stores all the user information in Firebase  
 
 <p align="center">
-    <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/users.png"/>
+    <img width = 60% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/users.png"/>
 </p>  
 
 Because the pre-built UI inclides a lot of the features for you, it will save you some time from creating all the log in/create an account features in swift and then connecting each information piece to the Firebase Database.   
@@ -70,14 +70,14 @@ Here are some of the current features
 1. The user can set certain **minutes** they want to stay productive 
 2. The user **cannot go back** to other screens/views with the app once the timer is set 
     - _I got rid of the <Back button during the countdown interval_
-3. A beeping sound will occur when the time is up to notify the user     
+3. A beeping **sound** will occur when the time is up to notify the user     
 
 **When the time is counting down and the user quits the app,**
-4. A notification will pop up calling the user back to the app  
+4. A **notification** will pop up calling the user back to the app  
     - the notification has a sound by the way 
-5. A alert will appear when the user returns to the app  
+5. A **alert** will appear when the user returns to the app  
 
-:point_right: Here is a demo of all of the above features  
+:point_right: **Here is a demo of all of the above features** 
   <p align="center">
         <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/advanced_timer.gif?raw=true"/>
     </p>    
