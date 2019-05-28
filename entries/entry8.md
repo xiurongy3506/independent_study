@@ -29,7 +29,8 @@ As you can see in my MVP, the username and password were entered assuming that t
 5. I run and tested my app. 
 
 #### Why use pre-built UI from Firebase?  
-The pre-built UI
+The pre-built UI  
+
 :star: directs you to create an account if Firebase recognizes that you are a new user.  
 
 <p align="center">
@@ -38,12 +39,12 @@ The pre-built UI
 :star: allows you to log in if your account has already been created   
 
 <p align="center">
-    <img width = 60% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/existing_user.png"/>
+    <img width = 80% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/existing_user.png"/>
 </p>
 :star: stores all the user information in Firebase  
 
 <p align="center">
-    <img width = 60% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/users.png"/>
+    <img width = 80% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/users.png"/>
 </p>  
 
 Because the pre-built UI inclides a lot of the features for you, it will save you some time from creating all the log in/create an account features in swift and then connecting each information piece to the Firebase Database.   
