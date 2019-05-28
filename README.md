@@ -12,5 +12,5 @@ I am Xiurong Yu, a current student at High School of Telecommunication Arts and 
 5. [Entry 5: Taking User Input and Pass on Data](entries/entry5.md)  
 6. [Entry 6: Debugging + Combining Parts](entries/entry6.md)    
 7. [Entry 7: Setting Up Firebase on Swift](entries/entry7.md)    
-8. [Entry 8: ](entries/entry8.md)  
+8. [Entry 8: MVP + a little more than MVP](entries/entry8.md)  
 9. [Entry 9: ](entries/entry9.md)  

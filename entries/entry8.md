@@ -10,7 +10,7 @@ Last week, I was having trouble passing on data from a string to an integer. Aft
 The day beforethe SEP EXPO, I was rushing to get my MVP done. Since Jennifer was introduced to Firebase last week, I figure that having a message app done will be unrealistic. As a result, I decided to focus solely on the timer and the to-do list part of the app as of now.   
 
 :point_right: Here is what I have for MVP  
-**The beeping sound effect cannot be heard because the following is a gif**
+_The beeping sound effect cannot be heard because the following is a gif_
  <p align="center">
         <img src = "https://github.com/xiurongy3506/swift_independent_study/blob/master/img/mvp.gif?raw=true"/>
     </p>  
@@ -33,14 +33,14 @@ The pre-built UI
 - directs you to create an account if Firebase recognizes that you are a new user.  
 
 <p align="center">
-    <img width = 75% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/create.png"/>
-</p> 
-- allows you to log in if your account has already been created  
+    <img width = 50% src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/create.png"/>
+</p>
+- allows you to log in if your account has already been created   
 
 <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/existing_user.png"/>
-</p> 
-- stores all the user information in Firebase   
+</p>
+- stores all the user information in Firebase  
 
 <p align="center">
     <img src = "https://raw.githubusercontent.com/xiurongy3506/swift_independent_study/master/img/users.png"/>
@@ -70,7 +70,8 @@ Here are some of the current features
 1. The user can set certain **minutes** they want to stay productive 
 2. The user **cannot go back** to other screens/views with the app once the timer is set 
     - _I got rid of the <Back button during the countdown interval_
-3. A beeping sound will occur when the time is up to notify the user   
+3. A beeping sound will occur when the time is up to notify the user     
+
 **When the time is counting down and the user quits the app,**
 4. A notification will pop up calling the user back to the app  
     - the notification has a sound by the way 
