@@ -17,6 +17,8 @@ _The beeping sound effect cannot be heard because the following is a gif_
 
 ## Firebase log in   
 As you can see in my MVP, the username and password were entered assuming that the user has an account, but the "create an account" function does not work yet. As a result, I decided to find the easiest way to allow the user to create and login into their account using **a pre-built UI from Firebox.**
+  
+:sparkles: **Shout out to Jennifer who has the Firebase for the Productivity app set up** otherwise the connection setup process for Swift and Firebase can take forever. :sparkles:   
 
 #### How did I do that?
 1. I read over the [documentation](https://firebase.google.com/docs/auth/ios/firebaseui) for adding sign-in to your iOS app with FirebaseUI.  
