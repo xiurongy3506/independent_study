@@ -1,4 +1,5 @@
-# Entry 8: MVP + a little more than MVP
+# Entry 8: MVP + a little more than MVP  
+This week I was able to get my MVP done, use firebase pre-built login, and expand on the features in the timer section of the app. Read and find out how I did that!
 
 ## Fixing the bug from last week: String to Integer
 Last week, I was having trouble passing on data from a string to an integer. After many attempts in changing the variables around, I decided to use force unwrapping to convert the string to an integer. In this case, it worked as the second is able to be recognized as an integer. 
